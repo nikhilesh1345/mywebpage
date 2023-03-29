@@ -1,0 +1,33 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+    font-family: century Gothic;
+ }
+ body{
+ 	background-color:white;
+ }
+
+.nav-bar ul li
+{
+  list-style-type: none;	
+}
+ul li{
+	display: inline-block;
+}
+ul li a{
+text-decoration: none;
+padding: 8px 20px;
+color: black;
+border: 1px solid #fff;
+}
+ul li a:hover{
+	color: #fff;
+	background-color: black;
+}
+
+.title h3{
+	color: #fff;
+	font-size: 70px;
+}
+

@@ -1,0 +1,15 @@
+
+ .col-1 .a1
+{
+height:350px ;  
+width: 470px; 
+}
+.row{
+display:flex;
+justify-content:space-between;    
+}
+h3{
+text-align:center;
+position: relative;
+top:-10px;
+}

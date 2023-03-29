@@ -1,0 +1,26 @@
+.navbar ul
+{
+  float:right;
+display:flex;
+}
+.navbar ul li
+{ 
+list-style-type: none;
+}
+.navbar ul li a
+{
+font-size:20px;
+text-decoration:none;
+}
+.a1{
+  margin:0px  5px;
+}
+.bgd-image img
+{
+background-size:cover; 
+width: 100vw;
+height: 100vh;
+position: absolute;
+top: 10px;
+left:10px; 
+}

@@ -1,0 +1,26 @@
+
+.row-2 {
+    display:flex;
+    justify-items: space-between;
+    
+    position: absolute;
+    top:450px;
+    border-spacing: 20px;
+
+}
+.Box-1
+{
+    text-align: center;
+padding: 20px 30px;
+border: 1px solid black;
+}
+
+.Box-2
+{
+text-align: center;
+padding: 20px 30px;
+border: 1px solid black;
+height:250px;
+width:400px;
+}
+

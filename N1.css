@@ -1,0 +1,10 @@
+
+
+.bgd-image h1
+{
+text-align: center;
+position: relative;
+top: 30px;
+left: 20px;
+z-index: -1;
+}
